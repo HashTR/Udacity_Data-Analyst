@@ -1,6 +1,6 @@
 # Udacity_Data-Analyst
 
-## Project1: Explore Weather Trends
+## Project1: [Explore Weather Trends](https://github.com/HashTR/Udacity_Data-Analyst/tree/main/Project1_Explore-Weather-Trends)
 a SQL query used to extract data from our database then Python code is used to calculate the moving averages and draw a line chart.
 
 ## Project2: Investigate-TMDb-Movie-Dataset
