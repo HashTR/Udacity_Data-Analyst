@@ -5,7 +5,8 @@ a SQL query used to extract data from our database then Python code is used to c
 
 ## Project2: Investigate-TMDb-Movie-Dataset
 Pandas, NumPy, and matplotlib are used to answer some interested questions.
-Project3: Analyze A/B Test Results
+
+## Project3: Analyze A/B Test Results
 A/B test techniques are used to decide whether a company should launch a new website or keep the old one.
 
 ## Project4: WeRateDogs-Twitter-Data-Wrangling
