@@ -6,7 +6,7 @@ A SQL query used to extract data from our database then Python code is used to c
 ## [Project2: Investigate-TMDb-Movie-Dataset](https://github.com/HashTR/Udacity_Data-Analyst/tree/main/Project2_Investigate-TMDb-movie-dataset)
 Pandas, NumPy, and matplotlib are used to answer some interested questions.
 
-## Project3: Analyze A/B Test Results
+## [Project3: Analyze A/B Test Results](https://github.com/HashTR/Udacity_Data-Analyst/tree/main/Project3_AB-Test-Analyze)
 A/B test techniques are used to decide whether a company should launch a new website or keep the old one.
 
 ## Project4: WeRateDogs-Twitter-Data-Wrangling
