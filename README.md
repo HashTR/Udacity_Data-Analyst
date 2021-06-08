@@ -3,7 +3,7 @@
 ## [Project1: Explore Weather Trends](https://github.com/HashTR/Udacity_Data-Analyst/tree/main/Project1_Explore-Weather-Trends)
 A SQL query used to extract data from our database then Python code is used to calculate the moving averages and draw a line chart.
 
-## Project2: Investigate-TMDb-Movie-Dataset
+## [Project2: Investigate-TMDb-Movie-Dataset](https://github.com/HashTR/Udacity_Data-Analyst/tree/main/Project2_Investigate-TMDb-movie-dataset)
 Pandas, NumPy, and matplotlib are used to answer some interested questions.
 
 ## Project3: Analyze A/B Test Results
